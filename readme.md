@@ -7,8 +7,7 @@ This should bring awesomeness into immersion and some more customisability to yo
 you can customize ur ship dashboard, why not customize your whole room lighting as well ? :D
 
 it'll be really cool, once it is atleast in Alpha, to get some feedback and even see what u guys would do with the configurations and such.
-
-
+[add youtube video of poc here]
 
 ### RoadMap
 - Integration of RGB peripherals to Elite Dangerous.
