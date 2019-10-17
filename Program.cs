@@ -27,10 +27,6 @@ namespace EliteKeyboard
 				Console.WriteLine("ManufecturerA,ManufecturerB = list of manufecturers seperated by comma");
 				Console.WriteLine("-currently supports :");
 				Console.WriteLine("-corsair :");
-
-
-
-
 			}
 			if (args[0] == "t")
 			{
